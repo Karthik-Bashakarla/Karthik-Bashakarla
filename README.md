@@ -3,6 +3,9 @@
 I am a software engineer and I am interested in web development and devops
 
 <img src="logos/react-logo.svg" width="40" height="40">
+<img src="logos/js-logo.svg" width="40" height="40">
+<img src="logos/git-logo.svg" width="40" height="40">
+<img src="logos/sass-logo.svg" width="40" height="40">
 
 <!--
 **Karthik-Bashakarla/Karthik-Bashakarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
