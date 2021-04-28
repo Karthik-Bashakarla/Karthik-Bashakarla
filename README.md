@@ -2,8 +2,7 @@
 
 I am a software engineer and I am interested in web development and devops
 
-![C logo](logos/react-logo.svg)
-<img src="logos/react-logo.svg" width="100" height="100">
+<img src="logos/react-logo.svg" width="40" height="40">
 
 <!--
 **Karthik-Bashakarla/Karthik-Bashakarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
