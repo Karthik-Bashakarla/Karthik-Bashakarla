@@ -2,7 +2,7 @@
 
 I am a software engineer and I am interested in web development and devops
 
-[C logo](c-logo.svg)
+![C logo](c-logo.svg)
 
 <!--
 **Karthik-Bashakarla/Karthik-Bashakarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
