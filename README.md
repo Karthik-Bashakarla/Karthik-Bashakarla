@@ -1,5 +1,7 @@
 ### Hi there 👋, this is Karthik Bashakarla !
 
+I am a software engineer and I am interested in web development and devops
+
 <!--
 **Karthik-Bashakarla/Karthik-Bashakarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
