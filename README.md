@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there 👋, this is Karthik Bashakarla. I am a software engineer and I am interested in web development and devops
+Hi there 👋, this is Karthik Bashakarla. I am a software engineer interested in web development and DevOps
 
 ## Tech Stack
 
