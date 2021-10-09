@@ -1,13 +1,11 @@
 ### About Me
 
-Hi there 👋, this is Karthik Bashakarla. I am a software engineer interested in UI Development and UI Design. 
+Hi there 👋, this is Karthik Bashakarla. I am a software engineer interested in UI Development and UX/UI Design. 
 
 ## Tech Stack
 
 <img src="logos/js-logo.svg" title="JavaScript" width="45" height="45">&emsp;&emsp;&emsp;<img src="logos/react-logo.svg" title="React" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/nodejs-logo.svg" title="Node" width="40" height="40">&emsp;&emsp;&emsp;<!--<img src="logos/mongoDB-logo.svg" title="MongoDB" width="60" height="50">&emsp;&emsp;&emsp;--><img src="logos/docker-logo.svg" title="Docker" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/k8s-logo.svg" title="Kubernetes" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/python-logo.svg" title="Python" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/gcp-logo.svg" title="Google Cloud Platform" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/git-logo.svg" title="Git Version Control" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/github-logo2.svg" title="GitHub" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/html-logo.svg" title="HTML" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/css-logo.svg" title="CSS" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/sass-logo.svg" title="Sass" width="40" height="40">&emsp;&emsp;&emsp;<img src="logos/linux-logo.svg" title="Linux" width="40" height="40">
 
-
-I am currently working on React.js projects and looking for jon opportunities in React.
 
 ### How to reach me: 
 
