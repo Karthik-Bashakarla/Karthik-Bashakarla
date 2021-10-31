@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there 👋, this is Karthik Bashakarla. I am a software engineer interested in UI Development, Full Stack Web/Mobile App Development and UX/UI Design. 
+Hi there 👋, this is Karthik Bashakarla. I am a software engineer interested in UI Development, Full Stack Web and Mobile App Development. 
 
 ## Tech Stack
 
