@@ -10,7 +10,7 @@ Hi there 👋, this is Karthik Bashakarla. I am a software engineer interested i
 ### How to reach me: 
 
   - Email: karthik.bashakarla@gmail.com
-  - Linkedin: linkedin.com/in/karthik-bashakarla-10
+  - LinkedIn: https://www.linkedin.com/in/karthik-bashakarla-10/
  
 <!--
 **Karthik-Bashakarla/Karthik-Bashakarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
