@@ -1,6 +1,16 @@
 ### About Me
 
-Hi there 👋, this is Karthik Bashakarla. I am a software engineer interested in UI Development, Full Stack Web and Mobile App Development. 
+Hi there 👋, this is Karthik Bashakarla. I am a process-oriented software engineer with a good knowledge of Web Application Development, Containerisation, Container Orchestration, Site Reliability Engineering and Source Code Management.
+
+Experienced in developing full stack web apps using the following tech stack:
+UI - React
+State Management - Redux(RTK)
+Api Dev - NestJS (Rest and GraphQL)
+Database - MongoDB
+Containerisation - Docker
+Container Orchestration - Kubernetes
+
+Interested in Software Architecture, System Design and Astronomy. 
 
 ## Tech Stack
 
