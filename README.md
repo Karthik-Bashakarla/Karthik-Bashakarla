@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there 👋, this is Karthik Bashakarla. I am a process-oriented software engineer with a good knowledge of Web Application Development, Containerisation, Container Orchestration, Site Reliability Engineering and Source Code Management.
+Hi there 👋, this is Karthik Bashakarla. I am a process-oriented software engineer with a good knowledge of Web Application Development, Containerisation, Container Orchestration and Source Code Management.
 
 Experienced in developing full stack web apps using the following tech stack:
 UI - React
