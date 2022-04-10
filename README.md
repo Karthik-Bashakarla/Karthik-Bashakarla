@@ -7,6 +7,7 @@ UI - React
 State Management - Redux(RTK)
 Api Dev - NestJS (Rest and GraphQL)
 Database - MongoDB
+ORM/ODM - Mongoose
 Containerisation - Docker
 Container Orchestration - Kubernetes
 
