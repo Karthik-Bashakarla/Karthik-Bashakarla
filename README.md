@@ -5,11 +5,12 @@ Hi there 👋, this is Karthik Bashakarla. I am a process-oriented software engi
 Experienced in developing full stack web apps using the following tech stack:
 UI - React
 State Management - Redux(RTK)
-Api Dev - NestJS (Rest and GraphQL)
+Api Dev - Express(Rest)
 Database - MongoDB
 ORM/ODM - Mongoose
 Containerisation - Docker
 Container Orchestration - Kubernetes
+Deployment: Netlify/Heroku
 
 Interested in Software Architecture, System Design and Astronomy. 
 
