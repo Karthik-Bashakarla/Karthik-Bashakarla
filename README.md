@@ -12,7 +12,7 @@ Containerisation - Docker
 Container Orchestration - Kubernetes
 Deployment: Netlify/Heroku
 
-Interested in Software Architecture, System Design and Astronomy. 
+Interested in Software Architecture and System Design. 
 
 ## Tech Stack
 
